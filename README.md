@@ -3,4 +3,4 @@ SJSU Pantry Online Ordering Website
 
 Professor Mike Wu 
 
-Code by Luke Cyraic and Angela Yang
+Code by Luke Cyraic and Angela Yang (Team 9)
